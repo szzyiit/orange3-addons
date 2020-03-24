@@ -1,0 +1,768 @@
+[
+    {
+        "info": {
+            "author": "Bioinformatics Laboratory, FRI UL",
+            "author_email": "info@biolab.si",
+            "bugtrack_url": null,
+            "classifiers": [
+                "Intended Audience :: Developers",
+                "Intended Audience :: Education",
+                "Intended Audience :: Science/Research",
+                "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+                "Operating System :: OS Independent",
+                "Programming Language :: Python",
+                "Topic :: Scientific/Engineering :: Artificial Intelligence",
+                "Topic :: Software Development :: Libraries :: Python Modules"
+            ],
+            "description": "Orange3-Associate\n=================\n\nOrange add-on for enumerating frequent itemsets and association rules mining.\n\nDocumentation: http://orange3-associate.readthedocs.org/\n\n\n",
+            "description_content_type": "",
+            "docs_url": null,
+            "download_url": "",
+            "downloads": {
+                "last_day": -1,
+                "last_month": -1,
+                "last_week": -1
+            },
+            "home_page": "https://github.com/biolab/orange3-associate",
+            "keywords": "frequent itemset mining,frequent pattern mining,association rules,apriori,fp-growth,frequent patterns,FIM,FPM,orange3 add-on",
+            "license": "",
+            "maintainer": "",
+            "maintainer_email": "",
+            "name": "Orange3-Associate-zh",
+            "package_url": "https://pypi.org/project/Orange3-Associate-zh/",
+            "platform": "",
+            "project_url": "https://pypi.org/project/Orange3-Associate-zh/",
+            "project_urls": {
+                "Homepage": "https://github.com/biolab/orange3-associate"
+            },
+            "release_url": "https://pypi.org/project/Orange3-Associate-zh/1.1.5/",
+            "requires_dist": [
+                "numpy",
+                "scipy"
+            ],
+            "requires_python": "",
+            "summary": "Orange add-on for mining frequent itemsets and association rules.",
+            "version": "1.1.5"
+        },
+        "last_serial": 6871797,
+        "releases": {
+            "1.1.5": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "383596dfc7919d2f65134dec77347c12",
+                        "sha256": "9931230b9deaa73d0eba500d722a5976d46954b428d8f4fad553cd1a81658704"
+                    },
+                    "downloads": -1,
+                    "filename": "Orange3_Associate_zh-1.1.5-py3-none-any.whl",
+                    "has_sig": false,
+                    "md5_digest": "383596dfc7919d2f65134dec77347c12",
+                    "packagetype": "bdist_wheel",
+                    "python_version": "py3",
+                    "requires_python": null,
+                    "size": 25137,
+                    "upload_time": "2020-03-24T09:28:01",
+                    "upload_time_iso_8601": "2020-03-24T09:28:01.869592Z",
+                    "url": "https://files.pythonhosted.org/packages/00/7d/0b091e5861a31c504dc42d3176b776a397f624687eb8ba8bedf3d2bb7609/Orange3_Associate_zh-1.1.5-py3-none-any.whl"
+                },
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "7bf42a56fa7d646a404728e6e5e5f6a5",
+                        "sha256": "a402a6eedbea6442809a872d5fd6f582296e98d6f88083835754bb8feedf86d8"
+                    },
+                    "downloads": -1,
+                    "filename": "Orange3-Associate-zh-1.1.5.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "7bf42a56fa7d646a404728e6e5e5f6a5",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "requires_python": null,
+                    "size": 524547,
+                    "upload_time": "2020-03-24T09:28:05",
+                    "upload_time_iso_8601": "2020-03-24T09:28:05.843531Z",
+                    "url": "https://files.pythonhosted.org/packages/29/0c/bec5751321239902d5f49dfb5a387c37ab9a577492043bbd80c38e573b3a/Orange3-Associate-zh-1.1.5.tar.gz"
+                }
+            ]
+        },
+        "urls": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "383596dfc7919d2f65134dec77347c12",
+                    "sha256": "9931230b9deaa73d0eba500d722a5976d46954b428d8f4fad553cd1a81658704"
+                },
+                "downloads": -1,
+                "filename": "Orange3_Associate_zh-1.1.5-py3-none-any.whl",
+                "has_sig": false,
+                "md5_digest": "383596dfc7919d2f65134dec77347c12",
+                "packagetype": "bdist_wheel",
+                "python_version": "py3",
+                "requires_python": null,
+                "size": 25137,
+                "upload_time": "2020-03-24T09:28:01",
+                "upload_time_iso_8601": "2020-03-24T09:28:01.869592Z",
+                "url": "https://files.pythonhosted.org/packages/00/7d/0b091e5861a31c504dc42d3176b776a397f624687eb8ba8bedf3d2bb7609/Orange3_Associate_zh-1.1.5-py3-none-any.whl"
+            },
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "7bf42a56fa7d646a404728e6e5e5f6a5",
+                    "sha256": "a402a6eedbea6442809a872d5fd6f582296e98d6f88083835754bb8feedf86d8"
+                },
+                "downloads": -1,
+                "filename": "Orange3-Associate-zh-1.1.5.tar.gz",
+                "has_sig": false,
+                "md5_digest": "7bf42a56fa7d646a404728e6e5e5f6a5",
+                "packagetype": "sdist",
+                "python_version": "source",
+                "requires_python": null,
+                "size": 524547,
+                "upload_time": "2020-03-24T09:28:05",
+                "upload_time_iso_8601": "2020-03-24T09:28:05.843531Z",
+                "url": "https://files.pythonhosted.org/packages/29/0c/bec5751321239902d5f49dfb5a387c37ab9a577492043bbd80c38e573b3a/Orange3-Associate-zh-1.1.5.tar.gz"
+            }
+        ]
+    },
+    {
+        "info": {
+            "author": "Bioinformatics Laboratory, FRI UL",
+            "author_email": "contact@orange.biolab.si",
+            "bugtrack_url": null,
+            "classifiers": [],
+            "description": "Orange3 Educational\n===================\n\nWidgets in Educational add-on demonstrate several key data mining and machine\nlearning procedures. The widgets are useful for beginners to understand the\ninner working of key algorithms in the data mining and for teachers to be able\nto visually explain various methods in a classroom.\n\n",
+            "description_content_type": "",
+            "docs_url": null,
+            "download_url": "https://github.com/biolab/orange3-educational/releases",
+            "downloads": {
+                "last_day": -1,
+                "last_month": -1,
+                "last_week": -1
+            },
+            "home_page": "https://github.com/biolab/orange3-educational",
+            "keywords": "orange3 add-on",
+            "license": "BSD",
+            "maintainer": "",
+            "maintainer_email": "",
+            "name": "Orange3-Educational-zh",
+            "package_url": "https://pypi.org/project/Orange3-Educational-zh/",
+            "platform": "",
+            "project_url": "https://pypi.org/project/Orange3-Educational-zh/",
+            "project_urls": {
+                "Download": "https://github.com/biolab/orange3-educational/releases",
+                "Homepage": "https://github.com/biolab/orange3-educational"
+            },
+            "release_url": "https://pypi.org/project/Orange3-Educational-zh/0.2.1/",
+            "requires_dist": [
+                "Orange3-zh (>=3.21.0)",
+                "BeautifulSoup4"
+            ],
+            "requires_python": "",
+            "summary": "Orange Educational add-on for Orange data mining software package.",
+            "version": "0.2.1"
+        },
+        "last_serial": 6872408,
+        "releases": {
+            "0.2.1": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "849b632525de5d3638d284a8ac9053fe",
+                        "sha256": "22c7f1cdae891f06ccaffa4e0dc5d7f8432a652f76c6d0d2bd6daebd2f77d306"
+                    },
+                    "downloads": -1,
+                    "filename": "Orange3_Educational_zh-0.2.1-py3-none-any.whl",
+                    "has_sig": false,
+                    "md5_digest": "849b632525de5d3638d284a8ac9053fe",
+                    "packagetype": "bdist_wheel",
+                    "python_version": "py3",
+                    "requires_python": null,
+                    "size": 332407,
+                    "upload_time": "2020-03-24T11:28:29",
+                    "upload_time_iso_8601": "2020-03-24T11:28:29.727236Z",
+                    "url": "https://files.pythonhosted.org/packages/56/81/f960ccb3cf78991bbb198b7f87871e620f45073733b9bef09d44168c2de4/Orange3_Educational_zh-0.2.1-py3-none-any.whl"
+                },
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "c89d77d3979fefce5533d1c763f21262",
+                        "sha256": "b7736e1cdaffebf3f3e943228a6b0a874bdbcaebfb790eb6f1df3d0fa0e462a9"
+                    },
+                    "downloads": -1,
+                    "filename": "Orange3-Educational-zh-0.2.1.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "c89d77d3979fefce5533d1c763f21262",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "requires_python": null,
+                    "size": 3360362,
+                    "upload_time": "2020-03-24T11:28:34",
+                    "upload_time_iso_8601": "2020-03-24T11:28:34.601996Z",
+                    "url": "https://files.pythonhosted.org/packages/ce/2e/b10e5c22597f0b22416200e35fa623c9464967cd1c80a2d861c3aad89a35/Orange3-Educational-zh-0.2.1.tar.gz"
+                }
+            ]
+        },
+        "urls": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "849b632525de5d3638d284a8ac9053fe",
+                    "sha256": "22c7f1cdae891f06ccaffa4e0dc5d7f8432a652f76c6d0d2bd6daebd2f77d306"
+                },
+                "downloads": -1,
+                "filename": "Orange3_Educational_zh-0.2.1-py3-none-any.whl",
+                "has_sig": false,
+                "md5_digest": "849b632525de5d3638d284a8ac9053fe",
+                "packagetype": "bdist_wheel",
+                "python_version": "py3",
+                "requires_python": null,
+                "size": 332407,
+                "upload_time": "2020-03-24T11:28:29",
+                "upload_time_iso_8601": "2020-03-24T11:28:29.727236Z",
+                "url": "https://files.pythonhosted.org/packages/56/81/f960ccb3cf78991bbb198b7f87871e620f45073733b9bef09d44168c2de4/Orange3_Educational_zh-0.2.1-py3-none-any.whl"
+            },
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "c89d77d3979fefce5533d1c763f21262",
+                    "sha256": "b7736e1cdaffebf3f3e943228a6b0a874bdbcaebfb790eb6f1df3d0fa0e462a9"
+                },
+                "downloads": -1,
+                "filename": "Orange3-Educational-zh-0.2.1.tar.gz",
+                "has_sig": false,
+                "md5_digest": "c89d77d3979fefce5533d1c763f21262",
+                "packagetype": "sdist",
+                "python_version": "source",
+                "requires_python": null,
+                "size": 3360362,
+                "upload_time": "2020-03-24T11:28:34",
+                "upload_time_iso_8601": "2020-03-24T11:28:34.601996Z",
+                "url": "https://files.pythonhosted.org/packages/ce/2e/b10e5c22597f0b22416200e35fa623c9464967cd1c80a2d861c3aad89a35/Orange3-Educational-zh-0.2.1.tar.gz"
+            }
+        ]
+    },
+    {
+        "info": {
+            "author": "Laboratory of Bioinformatics, FRI UL",
+            "author_email": "info@biolab.si",
+            "bugtrack_url": null,
+            "classifiers": [
+                "Development Status :: 4 - Beta",
+                "Environment :: Console",
+                "Environment :: Plugins",
+                "Environment :: X11 Applications :: Qt",
+                "Intended Audience :: Developers",
+                "Intended Audience :: Education",
+                "Intended Audience :: Science/Research",
+                "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+                "Operating System :: OS Independent",
+                "Programming Language :: Python",
+                "Topic :: Scientific/Engineering :: Artificial Intelligence",
+                "Topic :: Scientific/Engineering :: Visualization",
+                "Topic :: Software Development :: Libraries :: Python Modules"
+            ],
+            "description": "Orange3 Network\n===============\n\nOrange3-Network is an add-on for Orange data mining software package. It\nprovides network visualization and network analysis tools. The widgets enable\nnetwork generation, statistical analysis, computation of clusters, network\ntransformation and more.\n\n",
+            "description_content_type": "",
+            "docs_url": null,
+            "download_url": "",
+            "downloads": {
+                "last_day": -1,
+                "last_month": -1,
+                "last_week": -1
+            },
+            "home_page": "https://github.com/biolab/orange3-network",
+            "keywords": "network,network analysis,network layout,network visualization,data mining,machine learning,artificial intelligence,orange,orange3 add-on",
+            "license": "GPLv3",
+            "maintainer": "",
+            "maintainer_email": "",
+            "name": "Orange3-Network-zh",
+            "package_url": "https://pypi.org/project/Orange3-Network-zh/",
+            "platform": "",
+            "project_url": "https://pypi.org/project/Orange3-Network-zh/",
+            "project_urls": {
+                "Homepage": "https://github.com/biolab/orange3-network"
+            },
+            "release_url": "https://pypi.org/project/Orange3-Network-zh/1.4.2/",
+            "requires_dist": [
+                "pyqtgraph (>=0.9.10)",
+                "numpy (>=1.8.0)",
+                "Orange3-zh (>=3.20)",
+                "AnyQt ; extra == 'gui'",
+                "numpydoc ; extra == 'rest'"
+            ],
+            "requires_python": "",
+            "summary": "Networks add-on for Orange 3 data mining software package.",
+            "version": "1.4.2"
+        },
+        "last_serial": 6872802,
+        "releases": {
+            "1.4.2": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "3bae77cad727439a851a6a87df1521b3",
+                        "sha256": "8bb8855d4c0cdaee36398ebfd8725367ed966ccca898d724dbc04e595ce8e746"
+                    },
+                    "downloads": -1,
+                    "filename": "Orange3_Network_zh-1.4.2-cp37-cp37m-macosx_10_7_x86_64.whl",
+                    "has_sig": false,
+                    "md5_digest": "3bae77cad727439a851a6a87df1521b3",
+                    "packagetype": "bdist_wheel",
+                    "python_version": "cp37",
+                    "requires_python": null,
+                    "size": 712119,
+                    "upload_time": "2020-03-24T12:47:27",
+                    "upload_time_iso_8601": "2020-03-24T12:47:27.654993Z",
+                    "url": "https://files.pythonhosted.org/packages/41/e0/c722a1fd45560c252f58156722ee459143ad3f4a75b772e4b37bcd2a0e77/Orange3_Network_zh-1.4.2-cp37-cp37m-macosx_10_7_x86_64.whl"
+                },
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "d49487603e911cbaaf4554205299b949",
+                        "sha256": "dbfe0ed03de5543faeb970819373415c0878290343cc21f84bd6f5091ac37840"
+                    },
+                    "downloads": -1,
+                    "filename": "Orange3-Network-zh-1.4.2.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "d49487603e911cbaaf4554205299b949",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "requires_python": null,
+                    "size": 3630354,
+                    "upload_time": "2020-03-24T12:47:33",
+                    "upload_time_iso_8601": "2020-03-24T12:47:33.008324Z",
+                    "url": "https://files.pythonhosted.org/packages/01/30/d22e94ff4c6720a9205520ffaea11860acb41bc37a17ef1735de3e5fc3cf/Orange3-Network-zh-1.4.2.tar.gz"
+                }
+            ]
+        },
+        "urls": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "3bae77cad727439a851a6a87df1521b3",
+                    "sha256": "8bb8855d4c0cdaee36398ebfd8725367ed966ccca898d724dbc04e595ce8e746"
+                },
+                "downloads": -1,
+                "filename": "Orange3_Network_zh-1.4.2-cp37-cp37m-macosx_10_7_x86_64.whl",
+                "has_sig": false,
+                "md5_digest": "3bae77cad727439a851a6a87df1521b3",
+                "packagetype": "bdist_wheel",
+                "python_version": "cp37",
+                "requires_python": null,
+                "size": 712119,
+                "upload_time": "2020-03-24T12:47:27",
+                "upload_time_iso_8601": "2020-03-24T12:47:27.654993Z",
+                "url": "https://files.pythonhosted.org/packages/41/e0/c722a1fd45560c252f58156722ee459143ad3f4a75b772e4b37bcd2a0e77/Orange3_Network_zh-1.4.2-cp37-cp37m-macosx_10_7_x86_64.whl"
+            },
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "d49487603e911cbaaf4554205299b949",
+                    "sha256": "dbfe0ed03de5543faeb970819373415c0878290343cc21f84bd6f5091ac37840"
+                },
+                "downloads": -1,
+                "filename": "Orange3-Network-zh-1.4.2.tar.gz",
+                "has_sig": false,
+                "md5_digest": "d49487603e911cbaaf4554205299b949",
+                "packagetype": "sdist",
+                "python_version": "source",
+                "requires_python": null,
+                "size": 3630354,
+                "upload_time": "2020-03-24T12:47:33",
+                "upload_time_iso_8601": "2020-03-24T12:47:33.008324Z",
+                "url": "https://files.pythonhosted.org/packages/01/30/d22e94ff4c6720a9205520ffaea11860acb41bc37a17ef1735de3e5fc3cf/Orange3-Network-zh-1.4.2.tar.gz"
+            }
+        ]
+    },
+    {
+        "info": {
+            "author": "Bioinformatics Laboratory, FRI UL",
+            "author_email": "info@biolab.si",
+            "bugtrack_url": null,
+            "classifiers": [],
+            "description": "Orange3 Text\n============\n\nOrange add-on for text mining. It provides access to publicly available data,\nlike NY Times, Twitter and PubMed. Further, it provides tools for preprocessing,\nconstructing vector spaces (like bag-of-words, topic modeling and word2vec) and\nvisualizations like word cloud end geo map. All features can be combined with\npowerful data mining techniques from the Orange data mining framework.\n\n\n",
+            "description_content_type": "",
+            "docs_url": null,
+            "download_url": "",
+            "downloads": {
+                "last_day": -1,
+                "last_month": -1,
+                "last_week": -1
+            },
+            "home_page": "http://zhaoyang.org.cn",
+            "keywords": "orange3-text-zh,data mining,orange3 add-on",
+            "license": "",
+            "maintainer": "",
+            "maintainer_email": "",
+            "name": "Orange3-Text-zh",
+            "package_url": "https://pypi.org/project/Orange3-Text-zh/",
+            "platform": "",
+            "project_url": "https://pypi.org/project/Orange3-Text-zh/",
+            "project_urls": {
+                "Homepage": "http://zhaoyang.org.cn"
+            },
+            "release_url": "https://pypi.org/project/Orange3-Text-zh/0.9.0/",
+            "requires_dist": [
+                "LTTL (>=2.0.9)",
+                "Orange3-zh (>=3.21.0)",
+                "beautifulsoup4",
+                "biopython",
+                "chardet",
+                "docutils (<0.16)",
+                "docx2txt (>=0.6)",
+                "future",
+                "gensim (>=0.12.3)",
+                "jieba",
+                "lxml",
+                "nltk (>=3.0.5)",
+                "numpy",
+                "odfpy (>=1.3.5)",
+                "paddlepaddle-tiny (==1.6.1)",
+                "pdfminer3k (>=1.3.1)",
+                "python-dateutil (<2.8.1)",
+                "scikit-learn",
+                "scipy",
+                "setuptools-git",
+                "simhash",
+                "tweepy",
+                "ufal.udpipe (>=1.2.0.3)",
+                "wikipedia"
+            ],
+            "requires_python": "",
+            "summary": "Orange3 TextMining add-on(Chinese translation).",
+            "version": "0.9.0"
+        },
+        "last_serial": 6876210,
+        "releases": {
+            "0.9.0": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "449c39406a15a65656ad43cfab942f13",
+                        "sha256": "6763d06ac22c97179dccb08238092323784f3fd7c8ba9c564e348f9676e16633"
+                    },
+                    "downloads": -1,
+                    "filename": "Orange3_Text_zh-0.9.0-py3-none-any.whl",
+                    "has_sig": false,
+                    "md5_digest": "449c39406a15a65656ad43cfab942f13",
+                    "packagetype": "bdist_wheel",
+                    "python_version": "py3",
+                    "requires_python": null,
+                    "size": 17588753,
+                    "upload_time": "2020-03-24T13:16:31",
+                    "upload_time_iso_8601": "2020-03-24T13:16:31.872195Z",
+                    "url": "https://files.pythonhosted.org/packages/72/65/6c684a9ba06b38437d19f9c536dea2b01951567b7abd0e2039bd2910dcef/Orange3_Text_zh-0.9.0-py3-none-any.whl"
+                },
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "f3b0c03a180d545eb36060ebaafdf2ed",
+                        "sha256": "28ad3c1f25214319e0d72d4bdb6f3d8eeccbbee22cebf90269dd0d8c9887b827"
+                    },
+                    "downloads": -1,
+                    "filename": "Orange3-Text-zh-0.9.0.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "f3b0c03a180d545eb36060ebaafdf2ed",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "requires_python": null,
+                    "size": 23706653,
+                    "upload_time": "2020-03-24T21:01:25",
+                    "upload_time_iso_8601": "2020-03-24T21:01:25.373160Z",
+                    "url": "https://files.pythonhosted.org/packages/65/be/71579df4a3b6efc6e29f286102fe4ddc3f67bfd457a7f077ab300abfd14d/Orange3-Text-zh-0.9.0.tar.gz"
+                }
+            ]
+        },
+        "urls": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "449c39406a15a65656ad43cfab942f13",
+                    "sha256": "6763d06ac22c97179dccb08238092323784f3fd7c8ba9c564e348f9676e16633"
+                },
+                "downloads": -1,
+                "filename": "Orange3_Text_zh-0.9.0-py3-none-any.whl",
+                "has_sig": false,
+                "md5_digest": "449c39406a15a65656ad43cfab942f13",
+                "packagetype": "bdist_wheel",
+                "python_version": "py3",
+                "requires_python": null,
+                "size": 17588753,
+                "upload_time": "2020-03-24T13:16:31",
+                "upload_time_iso_8601": "2020-03-24T13:16:31.872195Z",
+                "url": "https://files.pythonhosted.org/packages/72/65/6c684a9ba06b38437d19f9c536dea2b01951567b7abd0e2039bd2910dcef/Orange3_Text_zh-0.9.0-py3-none-any.whl"
+            },
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "f3b0c03a180d545eb36060ebaafdf2ed",
+                    "sha256": "28ad3c1f25214319e0d72d4bdb6f3d8eeccbbee22cebf90269dd0d8c9887b827"
+                },
+                "downloads": -1,
+                "filename": "Orange3-Text-zh-0.9.0.tar.gz",
+                "has_sig": false,
+                "md5_digest": "f3b0c03a180d545eb36060ebaafdf2ed",
+                "packagetype": "sdist",
+                "python_version": "source",
+                "requires_python": null,
+                "size": 23706653,
+                "upload_time": "2020-03-24T21:01:25",
+                "upload_time_iso_8601": "2020-03-24T21:01:25.373160Z",
+                "url": "https://files.pythonhosted.org/packages/65/be/71579df4a3b6efc6e29f286102fe4ddc3f67bfd457a7f077ab300abfd14d/Orange3-Text-zh-0.9.0.tar.gz"
+            }
+        ]
+    },
+    {
+        "info": {
+            "author": "Bioinformatics Laboratory, FRI UL",
+            "author_email": "info@biolab.si",
+            "bugtrack_url": null,
+            "classifiers": [
+                "Development Status :: 4 - Beta",
+                "Environment :: Plugins",
+                "Environment :: X11 Applications :: Qt",
+                "Intended Audience :: Developers",
+                "Intended Audience :: Education",
+                "Intended Audience :: Science/Research",
+                "License :: Other/Proprietary License",
+                "Operating System :: OS Independent",
+                "Programming Language :: Python",
+                "Topic :: Scientific/Engineering :: Artificial Intelligence",
+                "Topic :: Scientific/Engineering :: Visualization",
+                "Topic :: Software Development :: Libraries :: Python Modules"
+            ],
+            "description": "Orange3-Timeseries\n==================\n\nOrange add-on for analyzing, visualizing, manipulating, and forecasting time\nseries data. The add-on includes ANOVA and VAR models, model evaluation, time\nseries preprocessing, seasonal adjustment and a wide array of visualizations.\n\n",
+            "description_content_type": "",
+            "docs_url": null,
+            "download_url": "",
+            "downloads": {
+                "last_day": -1,
+                "last_month": -1,
+                "last_week": -1
+            },
+            "home_page": "https://github.com/biolab/orange3-timeseries",
+            "keywords": "time series,sequence analysis,orange3 add-on,ARIMA,VAR model,forecast",
+            "license": "CC-BY-NC-3.0",
+            "maintainer": "",
+            "maintainer_email": "",
+            "name": "Orange3-Timeseries-zh",
+            "package_url": "https://pypi.org/project/Orange3-Timeseries-zh/",
+            "platform": "",
+            "project_url": "https://pypi.org/project/Orange3-Timeseries-zh/",
+            "project_urls": {
+                "Homepage": "https://github.com/biolab/orange3-timeseries"
+            },
+            "release_url": "https://pypi.org/project/Orange3-Timeseries-zh/0.3.4/",
+            "requires_dist": [
+                "Orange3-zh",
+                "statsmodels (>=0.10.0)",
+                "pandas",
+                "pandas-datareader",
+                "numpy",
+                "scipy (>=0.17)"
+            ],
+            "requires_python": "",
+            "summary": "Orange3 add-on for exploring time series and sequential data.",
+            "version": "0.3.4"
+        },
+        "last_serial": 6876233,
+        "releases": {
+            "0.3.4": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "c17b865f1a0041230a182588c761479e",
+                        "sha256": "60aa55f10c39482ca8e53f41f013721eb340307ebfd7bba2ee8f4d55486dc436"
+                    },
+                    "downloads": -1,
+                    "filename": "Orange3_Timeseries_zh-0.3.4-py3-none-any.whl",
+                    "has_sig": false,
+                    "md5_digest": "c17b865f1a0041230a182588c761479e",
+                    "packagetype": "bdist_wheel",
+                    "python_version": "py3",
+                    "requires_python": null,
+                    "size": 429269,
+                    "upload_time": "2020-03-24T21:05:16",
+                    "upload_time_iso_8601": "2020-03-24T21:05:16.691530Z",
+                    "url": "https://files.pythonhosted.org/packages/c4/55/555dfd743fe1ee80bc0d2008d358e40b9c5b8ea683e3d64b44044ac93983/Orange3_Timeseries_zh-0.3.4-py3-none-any.whl"
+                },
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "1c9db39650c3c00696cec46fee5dfc2f",
+                        "sha256": "5f7b0ad41af8ad34a699a710a8bd528f41e9c8863b151e9f8fb7924530d91ff4"
+                    },
+                    "downloads": -1,
+                    "filename": "Orange3-Timeseries-zh-0.3.4.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "1c9db39650c3c00696cec46fee5dfc2f",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "requires_python": null,
+                    "size": 1653426,
+                    "upload_time": "2020-03-24T21:05:20",
+                    "upload_time_iso_8601": "2020-03-24T21:05:20.480097Z",
+                    "url": "https://files.pythonhosted.org/packages/d5/08/5fddb610c9ab366c7050c76fa7357a338782c05eacde48f8b09cdf891264/Orange3-Timeseries-zh-0.3.4.tar.gz"
+                }
+            ]
+        },
+        "urls": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "c17b865f1a0041230a182588c761479e",
+                    "sha256": "60aa55f10c39482ca8e53f41f013721eb340307ebfd7bba2ee8f4d55486dc436"
+                },
+                "downloads": -1,
+                "filename": "Orange3_Timeseries_zh-0.3.4-py3-none-any.whl",
+                "has_sig": false,
+                "md5_digest": "c17b865f1a0041230a182588c761479e",
+                "packagetype": "bdist_wheel",
+                "python_version": "py3",
+                "requires_python": null,
+                "size": 429269,
+                "upload_time": "2020-03-24T21:05:16",
+                "upload_time_iso_8601": "2020-03-24T21:05:16.691530Z",
+                "url": "https://files.pythonhosted.org/packages/c4/55/555dfd743fe1ee80bc0d2008d358e40b9c5b8ea683e3d64b44044ac93983/Orange3_Timeseries_zh-0.3.4-py3-none-any.whl"
+            },
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "1c9db39650c3c00696cec46fee5dfc2f",
+                    "sha256": "5f7b0ad41af8ad34a699a710a8bd528f41e9c8863b151e9f8fb7924530d91ff4"
+                },
+                "downloads": -1,
+                "filename": "Orange3-Timeseries-zh-0.3.4.tar.gz",
+                "has_sig": false,
+                "md5_digest": "1c9db39650c3c00696cec46fee5dfc2f",
+                "packagetype": "sdist",
+                "python_version": "source",
+                "requires_python": null,
+                "size": 1653426,
+                "upload_time": "2020-03-24T21:05:20",
+                "upload_time_iso_8601": "2020-03-24T21:05:20.480097Z",
+                "url": "https://files.pythonhosted.org/packages/d5/08/5fddb610c9ab366c7050c76fa7357a338782c05eacde48f8b09cdf891264/Orange3-Timeseries-zh-0.3.4.tar.gz"
+            }
+        ]
+    },
+    {
+        "info": {
+            "author": "Bioinformatics Laboratory, FRI UL",
+            "author_email": "contact@orange.biolab.si",
+            "bugtrack_url": null,
+            "classifiers": [],
+            "description": "Orange3 Recommendation\n======================\n\nOrange3 add-on for recommendation. A Python module that extends Orange3 to\ninclude support for recommender systems. All features can be combined with\npowerful data mining techniques from the Orange data mining framework.\n\n",
+            "description_content_type": "",
+            "docs_url": null,
+            "download_url": "https://github.com/biolab/orange3-recommendation/tarball/0.1.3",
+            "downloads": {
+                "last_day": -1,
+                "last_month": -1,
+                "last_week": -1
+            },
+            "home_page": "https://github.com/biolab/orange3-recommendation",
+            "keywords": "orange3-recommendation,data mining,orange3 add-on",
+            "license": "",
+            "maintainer": "",
+            "maintainer_email": "",
+            "name": "Orange3-Recommendation-zh",
+            "package_url": "https://pypi.org/project/Orange3-Recommendation-zh/",
+            "platform": "",
+            "project_url": "https://pypi.org/project/Orange3-Recommendation-zh/",
+            "project_urls": {
+                "Download": "https://github.com/biolab/orange3-recommendation/tarball/0.1.3",
+                "Homepage": "https://github.com/biolab/orange3-recommendation"
+            },
+            "release_url": "https://pypi.org/project/Orange3-Recommendation-zh/0.1.3/",
+            "requires_dist": [
+                "Orange3-zh",
+                "mock",
+                "numpy (>=1.9.0)",
+                "scikit-learn (>=0.17)",
+                "setuptools-git"
+            ],
+            "requires_python": "",
+            "summary": "Orange3 add-on for recommender systems",
+            "version": "0.1.3"
+        },
+        "last_serial": 6872849,
+        "releases": {
+            "0.1.3": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "b67910a79e0ff6eb283a6c39d90770c8",
+                        "sha256": "37894908d4cd459e2f131c8af8491bb0cc00f66cad80ed9cede7860e68ba819c"
+                    },
+                    "downloads": -1,
+                    "filename": "Orange3_Recommendation_zh-0.1.3-py3-none-any.whl",
+                    "has_sig": false,
+                    "md5_digest": "b67910a79e0ff6eb283a6c39d90770c8",
+                    "packagetype": "bdist_wheel",
+                    "python_version": "py3",
+                    "requires_python": null,
+                    "size": 2027475,
+                    "upload_time": "2020-03-24T12:55:19",
+                    "upload_time_iso_8601": "2020-03-24T12:55:19.547442Z",
+                    "url": "https://files.pythonhosted.org/packages/7e/94/088be8711dcb7cb40b42dfd3633c08a78e7da5edaabc8f9ad441a75f2468/Orange3_Recommendation_zh-0.1.3-py3-none-any.whl"
+                },
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "3137a88cc080cec57c9eeff561771c3f",
+                        "sha256": "be7fed3ab213ac580b35c24def31423b79c7060a2850749fbf23dd70abee6c43"
+                    },
+                    "downloads": -1,
+                    "filename": "Orange3-Recommendation-zh-0.1.3.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "3137a88cc080cec57c9eeff561771c3f",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "requires_python": null,
+                    "size": 3945330,
+                    "upload_time": "2020-03-24T12:56:04",
+                    "upload_time_iso_8601": "2020-03-24T12:56:04.079946Z",
+                    "url": "https://files.pythonhosted.org/packages/b1/c6/4bb1a4a1e2daf11f2298da990cc1c2e4c35dcba6eba48c1a9881a7c83eae/Orange3-Recommendation-zh-0.1.3.tar.gz"
+                }
+            ]
+        },
+        "urls": [
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "b67910a79e0ff6eb283a6c39d90770c8",
+                    "sha256": "37894908d4cd459e2f131c8af8491bb0cc00f66cad80ed9cede7860e68ba819c"
+                },
+                "downloads": -1,
+                "filename": "Orange3_Recommendation_zh-0.1.3-py3-none-any.whl",
+                "has_sig": false,
+                "md5_digest": "b67910a79e0ff6eb283a6c39d90770c8",
+                "packagetype": "bdist_wheel",
+                "python_version": "py3",
+                "requires_python": null,
+                "size": 2027475,
+                "upload_time": "2020-03-24T12:55:19",
+                "upload_time_iso_8601": "2020-03-24T12:55:19.547442Z",
+                "url": "https://files.pythonhosted.org/packages/7e/94/088be8711dcb7cb40b42dfd3633c08a78e7da5edaabc8f9ad441a75f2468/Orange3_Recommendation_zh-0.1.3-py3-none-any.whl"
+            },
+            {
+                "comment_text": "",
+                "digests": {
+                    "md5": "3137a88cc080cec57c9eeff561771c3f",
+                    "sha256": "be7fed3ab213ac580b35c24def31423b79c7060a2850749fbf23dd70abee6c43"
+                },
+                "downloads": -1,
+                "filename": "Orange3-Recommendation-zh-0.1.3.tar.gz",
+                "has_sig": false,
+                "md5_digest": "3137a88cc080cec57c9eeff561771c3f",
+                "packagetype": "sdist",
+                "python_version": "source",
+                "requires_python": null,
+                "size": 3945330,
+                "upload_time": "2020-03-24T12:56:04",
+                "upload_time_iso_8601": "2020-03-24T12:56:04.079946Z",
+                "url": "https://files.pythonhosted.org/packages/b1/c6/4bb1a4a1e2daf11f2298da990cc1c2e4c35dcba6eba48c1a9881a7c83eae/Orange3-Recommendation-zh-0.1.3.tar.gz"
+            }
+        ]
+    }
+]
