@@ -20,7 +20,7 @@ for package in OFFICIAL_ADDONS:
     package_list.append(p)
     
 with open('list.tmp', 'wt') as f:
-    json.dump(package_list, f, sort_keys=True, indent=4)
+    json.dump(package_list, f, sort_keys=True, indent=4, ensure_ascii=False)
 
 
 # verification
