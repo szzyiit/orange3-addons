@@ -4,3 +4,4 @@ Orange3-Network-zh
 Orange3-Text-zh
 Orange3-Timeseries-zh
 Orange3-Recommendation-zh
+Orange3-zh
