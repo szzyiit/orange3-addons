@@ -807,7 +807,7 @@
             "project_urls": {
                 "Homepage": "http://orange.biolab.si/"
             },
-            "release_url": "https://pypi.org/project/Orange3-zh/3.24.1/",
+            "release_url": "https://pypi.org/project/Orange3-zh/3.24.2/",
             "requires_dist": [
                 "AnyQt (>=0.0.8)",
                 "PyQt5 (==5.13.2)",
@@ -845,9 +845,9 @@
             ],
             "requires_python": "",
             "summary": "Orange, a component-based data mining framework.",
-            "version": "3.24.1"
+            "version": "3.24.2"
         },
-        "last_serial": 6876891,
+        "last_serial": 6877439,
         "releases": {
             "3.24.0": [
                 {
@@ -924,44 +924,82 @@
                     "upload_time_iso_8601": "2020-03-24T21:52:42.539202Z",
                     "url": "https://files.pythonhosted.org/packages/18/1a/7343bca6d0c70eb33d16cfbc27e1538e5ff12ec1aed5bdf0eb9e912bedd5/Orange3-zh-3.24.1.tar.gz"
                 }
+            ],
+            "3.24.2": [
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "0a8bb05e6632385928c049d212c3a165",
+                        "sha256": "14d555c4d0e30c3e6af7c5fde31ea6832e11f44d10874407cdfe423d2203bbbc"
+                    },
+                    "downloads": -1,
+                    "filename": "Orange3_zh-3.24.2-cp37-cp37m-macosx_10_7_x86_64.whl",
+                    "has_sig": false,
+                    "md5_digest": "0a8bb05e6632385928c049d212c3a165",
+                    "packagetype": "bdist_wheel",
+                    "python_version": "cp37",
+                    "requires_python": null,
+                    "size": 18405764,
+                    "upload_time": "2020-03-25T00:18:00",
+                    "upload_time_iso_8601": "2020-03-25T00:18:00.973055Z",
+                    "url": "https://files.pythonhosted.org/packages/c0/d8/f73c5f1bb5e39ed463298d05c87d8638a72af352b29068a078d8ce75e91b/Orange3_zh-3.24.2-cp37-cp37m-macosx_10_7_x86_64.whl"
+                },
+                {
+                    "comment_text": "",
+                    "digests": {
+                        "md5": "3b2d8fca9d600326cefa1c96d3317348",
+                        "sha256": "5d54bf8056c6447b20022fda0f973150cbf4b10b3a4a6fc6c49d776280b94f97"
+                    },
+                    "downloads": -1,
+                    "filename": "Orange3-zh-3.24.2.tar.gz",
+                    "has_sig": false,
+                    "md5_digest": "3b2d8fca9d600326cefa1c96d3317348",
+                    "packagetype": "sdist",
+                    "python_version": "source",
+                    "requires_python": null,
+                    "size": 20350483,
+                    "upload_time": "2020-03-25T00:18:23",
+                    "upload_time_iso_8601": "2020-03-25T00:18:23.993058Z",
+                    "url": "https://files.pythonhosted.org/packages/d8/21/ba552f45e855d90a97de60aad02f718b5c302d639cefb829212823bb81d0/Orange3-zh-3.24.2.tar.gz"
+                }
             ]
         },
         "urls": [
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "e3dd8064cc0d75707b6ed617a8f3e954",
-                    "sha256": "3b084e201f16b251d69e38b973b9a8d73a897e093c8daaa6bb8541d1b98bd675"
+                    "md5": "0a8bb05e6632385928c049d212c3a165",
+                    "sha256": "14d555c4d0e30c3e6af7c5fde31ea6832e11f44d10874407cdfe423d2203bbbc"
                 },
                 "downloads": -1,
-                "filename": "Orange3_zh-3.24.1-cp37-cp37m-macosx_10_7_x86_64.whl",
+                "filename": "Orange3_zh-3.24.2-cp37-cp37m-macosx_10_7_x86_64.whl",
                 "has_sig": false,
-                "md5_digest": "e3dd8064cc0d75707b6ed617a8f3e954",
+                "md5_digest": "0a8bb05e6632385928c049d212c3a165",
                 "packagetype": "bdist_wheel",
                 "python_version": "cp37",
                 "requires_python": null,
-                "size": 18405740,
-                "upload_time": "2020-03-24T21:52:19",
-                "upload_time_iso_8601": "2020-03-24T21:52:19.097798Z",
-                "url": "https://files.pythonhosted.org/packages/ce/c2/b4476bb8a1275e376660edbdd44d7a6a9c04250b3ef1b141d3a0dc00390b/Orange3_zh-3.24.1-cp37-cp37m-macosx_10_7_x86_64.whl"
+                "size": 18405764,
+                "upload_time": "2020-03-25T00:18:00",
+                "upload_time_iso_8601": "2020-03-25T00:18:00.973055Z",
+                "url": "https://files.pythonhosted.org/packages/c0/d8/f73c5f1bb5e39ed463298d05c87d8638a72af352b29068a078d8ce75e91b/Orange3_zh-3.24.2-cp37-cp37m-macosx_10_7_x86_64.whl"
             },
             {
                 "comment_text": "",
                 "digests": {
-                    "md5": "229f8b59f4d9270791b68482992ed388",
-                    "sha256": "594f79c928ea133d408246f768e7545d18a046589f1cd8482c74b2e268589763"
+                    "md5": "3b2d8fca9d600326cefa1c96d3317348",
+                    "sha256": "5d54bf8056c6447b20022fda0f973150cbf4b10b3a4a6fc6c49d776280b94f97"
                 },
                 "downloads": -1,
-                "filename": "Orange3-zh-3.24.1.tar.gz",
+                "filename": "Orange3-zh-3.24.2.tar.gz",
                 "has_sig": false,
-                "md5_digest": "229f8b59f4d9270791b68482992ed388",
+                "md5_digest": "3b2d8fca9d600326cefa1c96d3317348",
                 "packagetype": "sdist",
                 "python_version": "source",
                 "requires_python": null,
-                "size": 20350450,
-                "upload_time": "2020-03-24T21:52:42",
-                "upload_time_iso_8601": "2020-03-24T21:52:42.539202Z",
-                "url": "https://files.pythonhosted.org/packages/18/1a/7343bca6d0c70eb33d16cfbc27e1538e5ff12ec1aed5bdf0eb9e912bedd5/Orange3-zh-3.24.1.tar.gz"
+                "size": 20350483,
+                "upload_time": "2020-03-25T00:18:23",
+                "upload_time_iso_8601": "2020-03-25T00:18:23.993058Z",
+                "url": "https://files.pythonhosted.org/packages/d8/21/ba552f45e855d90a97de60aad02f718b5c302d639cefb829212823bb81d0/Orange3-zh-3.24.2.tar.gz"
             }
         ]
     }
